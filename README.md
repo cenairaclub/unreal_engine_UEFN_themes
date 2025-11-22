@@ -1,7 +1,7 @@
 # How To Change Unreal Engine / UEFN Theme
 I collected some themes here and there.
 
-# 1 - Download pre-made themes. Or make a new one.
+# 1 - Download pre-made themes. Or make a new one. I collected these themes into this repo.
 https://github.com/catppuccin/unreal-engine
 
 https://github.com/dracula/unreal-engine
